@@ -1,1 +1,2 @@
-# blackjack
+# python project
+# customed game - cardsstone
