@@ -1,5 +1,4 @@
-# python project
-# customed game - cardsstone
+# Python mini-project
 
 파이썬으로 구현한 카드게임. 게임 규칙을 임의로 새로 정하였고, 문자열 출력을 이용해 게임판을 구성하였다.
 
